@@ -209,7 +209,3 @@ SR ≈ 1.12 V/µs
 
 ---
 
-## Author
-
-**Ishan Sharma**  
-B.Tech Electronics and Communication Engineering
